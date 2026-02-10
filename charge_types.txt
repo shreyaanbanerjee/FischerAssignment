@@ -1,0 +1,196 @@
+AHS - Weight
+Additional Tax
+Additional Vat Charge
+Additional Weight Charge
+Additional weight charge
+Addl. Handling Weight
+Addl. Handling weight
+Address Correction
+Adjustment
+Admin. Fees
+Adult Signature
+Adult Signature Required
+Agri Processing Fee
+Alternate Broker
+Australia GST
+Base Rate
+Billing Adjustment for w/e 01/07/2023
+Billing Adjustment for w/e 01/14/2023
+Billing Adjustment for w/e 01/21/2023
+Billing Adjustment for w/e 01/28/2023
+Billing Adjustment for w/e 02/04/2023
+Billing Adjustment for w/e 02/11/2023
+Billing Adjustment for w/e 02/18/2023
+Billing Adjustment for w/e 02/25/2023
+Billing Adjustment for w/e 03/04/2023
+Billing Adjustment for w/e 03/11/2023
+Billing Adjustment for w/e 03/18/2023
+Billing Adjustment for w/e 03/25/2023
+Billing Adjustment for w/e 04/01/2023
+Billing Adjustment for w/e 04/08/2023
+Billing Adjustment for w/e 04/15/2023
+Billing Adjustment for w/e 04/22/2023
+Billing Adjustment for w/e 04/29/2023
+Billing Adjustment for w/e 05/06/2023
+Billing Adjustment for w/e 05/13/2023
+Billing Adjustment for w/e 05/20/2023
+Billing Adjustment for w/e 05/27/2023
+Billing Adjustment for w/e 06/03/2023
+Billing Adjustment for w/e 06/10/2023
+British Columbia PST
+Broker Fee
+Brokerage Fees
+Brokerage GST
+Ca British Columbia Pst
+Ca Customs Hst
+Canada GST
+Complex Entry
+Cst Additional Duty
+Customs Duty
+Customs Gst
+Customs OT
+Customs Warehouse
+Cv Duty
+DAS Comm
+DAS Extended Comm
+DAS Extended Resi
+DAS Remote Comm
+DAS Remote Resi
+DAS Resi
+Declared Value
+Declared Value Charge
+Delivery Area Surcharge
+Delivery Area Surcharge - Extended
+Delivery Area Surcharge - Extended Adjustment
+Delivery Area Surcharge Adjustment
+Delivery Confirmation Signature
+Delivery Confirmation Signature - Commercial
+Delivery Confirmation Signature - Commercial Adjustment
+Delivery Confirmation Signature Adjustment
+Demand Surcharge-Addl Handling
+Demand Surcharge-Com
+Demand Surcharge-Large Package
+Demand Surcharge-Resi
+Direct Signature
+Disbursement Fee
+Duty Amount
+Duty and Tax Forwarding Surcharge
+Early Surcharge
+Electronic Entry for Formal Entry
+Electronic Export Information Fee
+Entry Prep Fee
+Export Clearance Fee
+Export F/C Reversal Penalty Fee
+Extended Area P/U Surcharge-Origin
+Extended Area Surcharge
+Freight
+Fuel Surcharge
+Fuel Surcharge Adjustment
+Future Day Pickup - Additional Handling
+Future Day Pickup - Additional Handling - Delivery Area Surcharge
+Future Day Pickup - Additional Handling - Inside Pickup
+Future Day Pickup - Additional Handling - Non-Stackable
+Future Day Pickup - Additional Handling - Over Max Len
+Future Day Pickup - Additional Handling - Oversize
+Future Day Pickup - Additional Handling - Oversize 1
+Future Day Pickup - Additional Handling - Oversize 2
+Future Day Pickup - Additional Handling - Remit Label
+Future Day Pickup - Additional Handling - Remote Area Surcharge
+Future Day Pickup - Additional Handling - Residential
+Future Day Pickup - Additional Handling - Residential Fee
+Future Day Pickup - Additional Handling - Saturday Delivery
+Future Day Pickup - Additional Handling - Saturday Pickup
+Future Day Pickup - Additional Handling - Signature Required
+Future Day Pickup - Additional Handling - Special Delivery
+Future Day Pickup - Additional Handling - Special Handling
+Future Day Pickup - Additional Handling - Special Pickup
+Future Day Pickup - Additional Handling - Sunday Delivery
+Future Day Pickup - Additional Handling - Sunday Pickup
+Future Day Pickup - Additional Handling - Third Party Billing
+Future Day Pickup - Additional Handling - Weekend Delivery
+Future Day Pickup - Additional Handling - Weekend Pickup
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 1
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 10
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 11
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 12
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 13
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 14
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 15
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 16
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 17
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 18
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 19
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 2
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 20
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 21
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 22
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 23
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 24
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 25
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 26
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 27
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 28
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 29
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 3
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 30
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 31
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 32
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 33
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 34
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 35
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 36
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 37
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 38
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 39
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 4
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 40
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 41
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 42
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 43
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 5
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 6
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 7
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 8
+Future Day Pickup - Additional Handling - Weekend Pickup - Special Handling 9
+Future Day Pickup - Additional Handling - Zip Code Correction
+Future Day Pickup - Alternate Address
+Future Day Pickup - Alternate Address - Phone Request
+Future Day Pickup - Any Third Attempt
+Future Day Pickup - COD
+Future Day Pickup - COD Fee
+Future Day Pickup - Call Ahead
+Future Day Pickup - Call Tag
+Future Day Pickup - Delivery Area Surcharge
+Future Day Pickup - Delivery Confirmation Signature
+Future Day Pickup - Direct Signature
+Future Day Pickup - Disbursement Fee
+Future Day Pickup - Duty Amount
+Future Day Pickup - Duty and Tax Forwarding Surcharge
+Future Day Pickup - Early Surcharge
+Future Day Pickup - Electronic Export Information Fee
+Future Day Pickup - Extended Area P/U Surcharge-Origin
+Future Day Pickup - Extended Area Surcharge
+Future Day Pickup - Fuel Surcharge
+Future Day Pickup - Hazardous Materials Surcharge
+Future Day Pickup - Inside Delivery
+Future Day Pickup - Large Package
+Future Day Pickup - Large Package Surcharge
+Future Day Pickup - Large Package Surcharge-Origin
+Future Day Pickup - Late Arrival
+Future Day Pickup - Limited Access Fee
+Future Day Pickup - Out of Area Delivery Surcharge
+Future Day Pickup - Oversize Charge
+Future Day Pickup - Overweight Charge
+Future Day Pickup - Prohibited Items
+Future Day Pickup - Remote Area Delivery Surcharge
+Future Day Pickup - Residential Fee
+Future Day Pickup - Rural Area Surcharge
+Future Day Pickup - Saturday Delivery
+Future Day Pickup - Saturday Pickup
+Future Day Pickup - Signature Required
+Future Day Pickup - Signature Required Adjustment
+Future Day Pickup - Special Handling
+Future Day Pickup - Sunday Delivery
+Future Day Pickup - Sunday Pickup
+Future Day Pickup - Third Party Billing
