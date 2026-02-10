@@ -24,12 +24,31 @@ def categorize_charge(charge_type):
         return 'Base'
     return 'Surcharge'
 
+def clean_zone(z):
+    """Standardizes Zone values to just the number."""
+    if pd.isna(z):
+        return z
+    z_str = str(z)
+    clean = re.sub(r'(?i)zone\s*', '', z_str)
+    return clean
+
+def clean_weight(w):
+    """Extracts numeric weight."""
+    if isinstance(w, str):
+            match = re.search(r'(\d+(\.\d+)?)', w)
+            if match:
+                return float(match.group(1))
+    return float(w)
+
 def main():
     print(f"Loading data from {INPUT_FILE}...")
     df = pd.read_csv(INPUT_FILE)
     
-    print("Cleaning 'Charge' column...")
+    print("Cleaning columns...")
     df['Charge Amount'] = df['Charge'].apply(clean_currency)
+    df['Weight (lbs)'] = df['Weight (lbs)'].apply(clean_weight)
+    if 'Zones' in df.columns:
+        df['Zones'] = df['Zones'].apply(clean_zone)
     
     print("Categorizing charges...")
     df['Charge Category'] = df['Charge Type'].apply(categorize_charge)
@@ -40,7 +59,7 @@ def main():
         'Carrier Name': 'first',
         'Service Level': 'first',
         'Zones': 'first',
-        'Weight (lbs)': 'first',
+        'Weight (lbs)': 'max',
         'Dimensions (in)': 'first',
         'Date of Delivery': 'first',
         'Charge Amount': 'sum',
@@ -56,18 +75,14 @@ def main():
     
     print("Calculating normalized metrics...")
     
-    def clean_weight(w):
-        if isinstance(w, str):
-             match = re.search(r'(\d+(\.\d+)?)', w)
-             if match:
-                 return float(match.group(1))
-        return float(w)
-
-    grouped['Weight (lbs)'] = grouped['Weight (lbs)'].apply(clean_weight)
-    
     grouped['Cost per Lb'] = grouped['Charge Amount'] / grouped['Weight (lbs)']
     
     grouped['Surcharge %'] = (grouped['Surcharge Cost'] / grouped['Charge Amount']) * 100
+    
+    # Rounding
+    float_cols = ['Charge Amount', 'Base Cost', 'Surcharge Cost', 'Cost per Lb', 'Surcharge %', 'Weight (lbs)']
+    for col in float_cols:
+        grouped[col] = grouped[col].round(2)
     
     print(f"Saving processed data to {OUTPUT_FILE}...")
     grouped.to_csv(OUTPUT_FILE, index=False)
